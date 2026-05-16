@@ -1,7 +1,7 @@
 ![logo](src/lib/images/logo.png)
 
-# Stats of Atlantis
-
+# Stats of Atlantis - Cheating Edition
+I have a plan for a sweaty game of this. Numbers WILL be shown all the time. Get ready ! 
 ## Developing
 
 Once dependencies are installed with `npm install` (or `pnpm install` or `yarn`), start a development server:
