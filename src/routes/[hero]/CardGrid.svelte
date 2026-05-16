@@ -603,7 +603,7 @@
 
   const labelColor = (disabled: boolean): string => disabled ? "gray" : "white"
 
-  $: disableShowNumbers = true
+  $: disableShowNumbers = false
 
   $: activeStats = useNewPrinting ? stats.slice(0, 4) : stats
   let hero: Hero | OldHero | undefined
